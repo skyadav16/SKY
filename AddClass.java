@@ -1,0 +1,5 @@
+public AddClass {
+	public AddClass() {
+		
+	}
+}
